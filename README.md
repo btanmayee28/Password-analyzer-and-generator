@@ -1,6 +1,5 @@
 The Password Analyzer and Generator is a comprehensive tool designed to enhance online security by analyzing the strength of user-generated passwords and providing secure password suggestions. 
 The project includes features for both evaluating existing passwords and creating new ones based on customizable criteria.
-
 Features:
 Password Analyzer:
 Strength Assessment: Evaluate the strength of a given password based on criteria such as length, use of uppercase and lowercase letters, numbers, and special characters.
