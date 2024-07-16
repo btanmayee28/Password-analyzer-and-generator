@@ -1,0 +1,49 @@
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+margin: 0;
+background-color: #f4f4f4;
+}
+.container {
+text-align: center;
+background-color: #fff;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+padding: 20px;
+width: 300px;
+}
+.input-container {
+margin-bottom: 20px;
+}
+label {
+display: block;
+margin-bottom: 5px;
+color: #333;
+}
+input {
+width: 100%;
+padding: 10px;
+margin-top: 5px;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+}
+.strength-container {
+margin-top: 20px;
+}
+#password-strength, #password-criteria {
+font-size: 16px;
+margin: 5px 0;
+}
+.good {
+color: #4CAF50;
+}
+.moderate {
+color: #FFC107;
+}
+.weak {
+color: #FF5252;
+}
